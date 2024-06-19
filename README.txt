@@ -1,0 +1,1 @@
+Python 3.10 is needed. Install all required packages. 
